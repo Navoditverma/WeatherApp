@@ -15,6 +15,11 @@ To deploy this project simply download the zip file of the code form my profile 
 
 ## Demo
 
+```
+https://weatherapp-navodit.vercel.app
+
+```
+
 
 
 
